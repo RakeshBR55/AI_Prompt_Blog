@@ -22,7 +22,7 @@ const Nav = () => {
     <nav className='flex-between w-full mb-16 p-4'>
       <Link href='/' className='flex gap-2 flex-center'>
         <Image
-          src='/assets/images/pvlogo.png'
+          src='/assets/images/pvLogo.png'
           alt='logo'
           width={60}
           height={70}
